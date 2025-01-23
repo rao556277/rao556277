@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 <br/>
 
 ### Socials
