@@ -22,7 +22,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rao556277&label=Profile%20views&color=0e75b6&style=flat" alt="rao556277" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rao556277&show_icons=true&locale=en&layout=compact&theme=dark" alt="Rao Muah" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rao556277&show_icons=true&locale=en&theme=dark" alt="Rao Muhammad Hassan" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rao556277&theme=dark" alt="Rao Muhammad Hassan" /></p>
 
 
 ### GitHub Profile Trophies
